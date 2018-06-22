@@ -7,5 +7,6 @@ header:
 permalink: "/jobs/"
 ---
 
-There are no current positions with Data Carpentry. If you do have inquiries however, please email 
-[team@carpentries.org](mailto:team@carpentries.org).
+
+There are no current positions with Data Carpentry. If you do have inquiries however, please email [team@carpentries.org](mailto:team@carpentries.org).
+
